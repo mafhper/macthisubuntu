@@ -75,4 +75,4 @@ A interface gráfica oferece as seguintes opções, correspondendo às opções 
 
 ## Licença
 
-[MIT License](LICENSE) (Você pode adicionar um arquivo `LICENSE` com a licença MIT se desejar)
+[MIT License](LICENSE)
